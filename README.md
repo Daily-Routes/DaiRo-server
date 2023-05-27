@@ -1,2 +1,2 @@
 # DaiRo-server
-Cloud server processing data
+Server apllication to store and process data
